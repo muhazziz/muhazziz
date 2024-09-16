@@ -19,7 +19,7 @@ npm install proyek-saya
 ```
 
 <table>
-  <tr>
+  <tr style="background-color: #384B70;">
     <th>Versi</th>
     <th>Keterangan</th>
   </tr>
